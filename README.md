@@ -1,8 +1,12 @@
 # Machine_Learning_Project
-Soft ware and account requirement.
+Software and account requirement.
+
 1.Github Account
+
 2.Heroku Account
+
 3.VS code IDE
+
 4.GIT cli
 
 Creating conda environment
@@ -16,6 +20,7 @@ conda activate mjenv/
 OR
 ```
 conda activate mjenv
+```
 ```
 pip install -r requirement.txt
 ```
