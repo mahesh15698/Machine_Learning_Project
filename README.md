@@ -74,3 +74,10 @@ To run docker image
 ```
 docker run -p 5000:5000 -e PORT=5000 <image id>
 ```
+To check running container in docker
+```
+docker ps
+```
+to stop  Docker container 
+```
+docker stop <container_id>
